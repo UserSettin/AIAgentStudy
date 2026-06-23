@@ -1,0 +1,5 @@
+{
+    "_type":"prompt",
+    "input_variables":["name","description"],
+    "template_path": "第2节-5_prompt_template_test.txt"
+}
